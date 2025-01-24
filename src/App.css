@@ -9,10 +9,14 @@
   margin-top: 20rem;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  /* filter: drop-shadow(0 0 2em #646cffaa); */
+
+  filter: drop-shadow(0 0 2em #121212);
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+  /* filter: drop-shadow(0 0 2em #61dafbaa); */
+  filter: drop-shadow(0 0 2em #1e1e1f);
+
 }
 
 @keyframes logo-spin {
